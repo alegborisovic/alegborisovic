@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emre Aydemir ====================================================================================================================================  A Software Developer. ---------------------  "With the education I have received and am currently receiving, I am eager to share my projects and experiences with you on my coding journey."  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emre Aydemir A Software Developer.  "With the education I have received and am currently receiving, I am eager to share my projects and experiences with you on my coding journey."  
 * 🌍  I'm based in Ankara
 * 🖥️  See my portfolio at [my website](http://www.emreaydemir.com.tr)
 * ✉️  You can contact me at [emreaydemir480@icloud.com](mailto:emreaydemir480@icloud.com) 
