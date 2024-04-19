@@ -1,7 +1,7 @@
 Hi ! My name is Emre Aydemir A Software Developer.  
 "With the education I have received and am currently receiving, I am eager to share my projects and experiences with you on my coding journey."  
 * 🌍  I'm based in Ankara
-* 🖥️  See my portfolio at [my website](http://www.emreaydemir.com.tr)
+* 🖥️  See my portfolio at [my website](https://emreaydemir.com.tr)
 * ✉️  You can contact me at [emreaydemir480@icloud.com](mailto:emreaydemir480@icloud.com) 
 * 🧠  Currently ı'm learning C
 *  🤝  I'm open to collaborating on interesting projects
