@@ -22,8 +22,6 @@ Hi ! My name is Emre Aydemir A Software Developer.
 
 </ul>
 
-## generate
-
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=alegborisovic&label=Profile%20Views&color=1&icon=6&pretty=true" />
 </a>
