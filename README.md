@@ -21,3 +21,9 @@ Hi ! My name is Emre Aydemir A Software Developer.
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/emreaydemir"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
+
+## generate
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=alegborisovic&label=Profile%20Views&color=1&icon=6&pretty=true" />
+</a>
