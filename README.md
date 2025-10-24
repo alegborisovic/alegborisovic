@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alegborisovic&label=Profile%20views&color=0e75b6&style=flat" alt="alegborisovic" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://emreaydemir.com.tr](https://emreaydemir.com.tr)
-
 - ✉️ You can contact me at **emreaydemir480@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
